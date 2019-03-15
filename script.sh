@@ -1,4 +1,4 @@
 #!/bin/sh
 
-sudo apt -y update
-sudo apt -y install python3-pip
+apt-get update -y
+apt-get install -y python3-pip
